@@ -15,6 +15,8 @@ apt isntall fzf -> debian based
 pacman -S fzf -> arch based
 dnf install fzf -> fedora
 
+Hack Nerd Fonts for Windows
+
 - To change
 
 1. config function path accordingly to computer settings
